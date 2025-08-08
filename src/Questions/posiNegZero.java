@@ -13,8 +13,5 @@ public class posiNegZero {
             System.out.println("positive");
         else
             System.out.println("Negative");
-
-
-
     }
 }
