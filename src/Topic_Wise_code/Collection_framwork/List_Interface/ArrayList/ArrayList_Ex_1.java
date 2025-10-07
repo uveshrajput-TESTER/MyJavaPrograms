@@ -1,4 +1,4 @@
-package Topic_Wise_code.Collection_framwork.List_Interface;
+package Topic_Wise_code.Collection_framwork.List_Interface.ArrayList;
 
 import java.util.ArrayList;
 
