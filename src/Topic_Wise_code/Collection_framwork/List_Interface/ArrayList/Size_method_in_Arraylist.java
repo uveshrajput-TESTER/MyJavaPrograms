@@ -12,4 +12,5 @@ public class Size_method_in_Arraylist {
         list.add("ayaan");
         list.add("Vijay");
         System.out.println("size of the Arraylist After adding elements "+list.size());
+
 }}
